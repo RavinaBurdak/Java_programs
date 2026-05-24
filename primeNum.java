@@ -3,7 +3,7 @@ import java.util.*;
 public class primeNum {
     //only for n>=2
     public static boolean isprime(int n){
-       //corner cases
+       //corner casesr
        if( n==2){
          return true;
        }
@@ -22,4 +22,4 @@ public class primeNum {
         System.out.println(isprime(n));
         sc.close();
     }
-}
+}  
