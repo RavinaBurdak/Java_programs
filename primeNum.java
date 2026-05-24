@@ -1,4 +1,4 @@
-//check if a number entered by useris prime or not by function
+//check if a number entered by useris prime or not. --by function
 import java.util.*;
 public class primeNum {
     //only for n>=2
@@ -21,7 +21,5 @@ public class primeNum {
         int n=sc.nextInt();
         System.out.println(isprime(n));
         sc.close();
-
     }
-    
 }
