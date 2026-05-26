@@ -19,7 +19,7 @@ These programs are created for practice and learning Java programming concepts.
 - Loops
 - If-Else Conditions
 - Basic Logic Building
-- Baic Calculator program
+- Basic Calculator program
 
 ## Purpose
 This repository is made to improve programming skills and understand core Java concepts.
